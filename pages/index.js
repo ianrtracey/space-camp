@@ -15,7 +15,9 @@ export default function Home () {
             An extraterrestrial party in Brooklyn, NY
           </div>
           <div className=''>🗓&ensp;February 26th, 2022</div>
-          <div>📍&ensp;Eris</div>
+          <a className='link' target='_blank'>
+            📍&ensp;Eris
+          </a>
           <div>⏱&ensp;10pm - late</div>
           <div className='button'>get tickets 👽</div>
         </div>
