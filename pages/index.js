@@ -12,7 +12,9 @@ export default function Home () {
         </div>
         <div className='details'>
           <div className='description'>
-            An extraterrestrial party in Brooklyn, NY
+            An extraterrestrial party
+            <br />
+            in Brooklyn, NY
           </div>
           <div className=''>🗓&ensp;February 26th, 2022</div>
           <a className='link' target='_blank'>
