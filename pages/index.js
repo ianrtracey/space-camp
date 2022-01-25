@@ -16,7 +16,12 @@ export default function Home () {
             in Brooklyn, NY
           </div>
           <div className=''>🗓&ensp;February 26th, 2022</div>
-          <a className='link' target='_blank'>
+          <a
+            className='link'
+            href='https://g.page/ErisEvolution?share'
+            target='_blank'
+            style={{ color: '#f975f7' }}
+          >
             📍&ensp;Eris
           </a>
           <div>⏱&ensp;10pm - late</div>

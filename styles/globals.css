@@ -15,9 +15,24 @@
   Neptune : ~59 802 days (~165 years)
   Pluto : ~90 580 days (~248 years)
 */
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@font-face {
+  font-family: 'Bangers';
+  font-style: normal;
+  font-display: swap;
+  src: local('Bangers'), url(/fonts/Bangers-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mr Dafoe';
+  font-style: cursive;
+  font-display: swap;
+  src: local('Bangers'), url(/fonts/MrDafoe-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: cursive;
+  font-display: swap;
+  src: local('Bangers'), url(/fonts/Lato-Bold.ttf) format('truetype');
+}
 
 .marquee {
   display: flex;
