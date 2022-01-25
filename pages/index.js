@@ -28,7 +28,7 @@ export default function Home () {
           <div
             onClick={() => {
               window.open(
-                'https://www.eventbrite.com/preview?eid=255031414827/',
+                'https://www.eventbrite.com/e/good-night-out-presents-dancetronauts-tickets-255044343497',
                 '_blank'
               )
             }}
