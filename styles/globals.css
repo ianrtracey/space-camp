@@ -18,19 +18,19 @@
 @font-face {
   font-family: 'Bangers';
   font-style: normal;
-  font-display: swap;
+  font-display: block;
   src: local('Bangers'), url(/fonts/Bangers-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Mr Dafoe';
   font-style: cursive;
-  font-display: swap;
+  font-display: block;
   src: local('Bangers'), url(/fonts/MrDafoe-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Lato';
   font-style: cursive;
-  font-display: swap;
+  font-display: block;
   src: local('Bangers'), url(/fonts/Lato-Bold.ttf) format('truetype');
 }
 
