@@ -7,12 +7,11 @@ export default function Home () {
       <div className='container'>
         <div className='marquee'>
           <h2 className='logo'>Good Night Out</h2>
-          <p className='subtitle'>Presents</p>
-          <h1 className='title'>Space Camp</h1>
+          <h1 className='title'>Dancetronauts</h1>
         </div>
         <div className='details'>
           <div className='description'>
-            An extraterrestrial party
+            an extraterrestrial party
             <br />
             in Brooklyn, NY
           </div>

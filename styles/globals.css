@@ -30,6 +30,7 @@
   margin-bottom: 30px;
   font-size: 1.2em;
   line-height: 125%;
+  margin-top: -50px;
 }
 
 .button {
@@ -83,6 +84,7 @@
   word-spacing: 0.5em;
   font-size: 35px;
   padding: 25px;
+  margin-bottom: 1em;
 }
 
 *,
@@ -160,7 +162,7 @@ code {
 }
 
 .title {
-  font-size: 4em;
+  font-size: 3.25em;
 }
 
 .solar-syst {
