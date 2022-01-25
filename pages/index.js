@@ -25,7 +25,17 @@ export default function Home () {
             📍&ensp;Eris
           </a>
           <div>⏱&ensp;10pm - late</div>
-          <div className='button'>get tickets 👽</div>
+          <div
+            onClick={() => {
+              window.open(
+                'https://www.eventbrite.com/preview?eid=255031414827/',
+                '_blank'
+              )
+            }}
+            className='button'
+          >
+            get tickets 👽
+          </div>
         </div>
       </div>
 
